@@ -1,0 +1,25 @@
+body {
+    background-color: #141210;
+    font-family: 'Noto Sans',sans-serif;
+    line-height: 1.5;
+    color: white;
+
+    margin: 0;
+    padding: 50px 10%;
+}
+
+a {
+    color: #F0AA77;
+    font-weight: 700;
+    text-decoration: none;
+}
+
+h2 {
+    border-bottom: 3px dotted #F0AA77;
+    width: fit-content;
+}
+
+table {
+    width: 100%;
+    max-width: 800px;
+}
